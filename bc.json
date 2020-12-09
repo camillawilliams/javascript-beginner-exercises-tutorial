@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://f4d3f1a5-29be-4632-aa09-e4ca773be6b3.ws-us02.gitpod.io",
+    "address": "https://f4d3f1a5-29be-4632-aa09-e4ca773be6b3.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -138,7 +138,7 @@
         {
             "slug": "10-Creating-your-first-function",
             "title": "10-Creating-your-first-function",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Creating-your-first-function",
             "translations": [
                 "es",
@@ -149,7 +149,7 @@
         {
             "slug": "11-Create-a-new-function",
             "title": "11-Create-a-new-function",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Create-a-new-function",
             "translations": [
                 "es",
@@ -160,7 +160,7 @@
         {
             "slug": "12-Your-first-if",
             "title": "12-Your-first-if",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Your-first-if",
             "translations": [
                 "es",
@@ -171,7 +171,7 @@
         {
             "slug": "13-How-much-the-wedding-costs",
             "title": "13-How-much-the-wedding-costs",
-            "done": false,
+            "done": true,
             "path": "exercises/13-How-much-the-wedding-costs",
             "translations": [
                 "es",
